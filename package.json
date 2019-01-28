@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "my test nodejs project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://portspasy@bitbucket.org/portspasy/nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/portspasy/nodejs#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "faker": "^4.1.0",
+    "knock-knock-jokes": "^1.7.0",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.4.6"
+  }
+}
